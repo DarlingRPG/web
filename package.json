@@ -1,7 +1,13 @@
 {
-  "name": "web",
+  "name": "darling-rpg-web",
+  "description": "Official DarlingRPG website.",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "DarlingRPG Team",
+    "url": "https://github.com/DarlingRPG"
+  },
+  "private": false,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
